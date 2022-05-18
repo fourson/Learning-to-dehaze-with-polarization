@@ -3,7 +3,7 @@
 By [Chu Zhou](https://fourson.github.io/), Minggui Teng, Yufei Han, Chao Xu, [Boxin Shi](http://ci.idm.pku.edu.cn/)
 ![Network](Network.png)
 
-~~[PDF]()~~ | ~~[SUPP]()~~ (not available now, comming soon)
+[PDF](https://papers.nips.cc/paper/2021/file/5fd0b37cd7dbbb00f97ba6ce92bf5add-Paper.pdf) | [SUPP](https://papers.nips.cc/paper/2021/file/5fd0b37cd7dbbb00f97ba6ce92bf5add-Supplemental.pdf)
 
 
 ## Abstract
@@ -73,5 +73,21 @@ So, we should preprocess the data first to get the network input:
 
 ## Citation
 
-Coming soon
+If you find this work helpful to your research, please cite:
+
+```
+@inproceedings{NEURIPS2021_5fd0b37c,
+ author = {Zhou, Chu and Teng, Minggui and Han, Yufei and Xu, Chao and Shi, Boxin},
+ booktitle = {Advances in Neural Information Processing Systems},
+ editor = {M. Ranzato and A. Beygelzimer and Y. Dauphin and P.S. Liang and J. Wortman Vaughan},
+ pages = {11487--11500},
+ publisher = {Curran Associates, Inc.},
+ title = {Learning to dehaze with polarization},
+ url = {https://proceedings.neurips.cc/paper/2021/file/5fd0b37cd7dbbb00f97ba6ce92bf5add-Paper.pdf},
+ volume = {34},
+ year = {2021}
+}
+```
+
+
 
